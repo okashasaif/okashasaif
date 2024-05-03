@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about web development, data analyti
 
 - 🌱 I'm currently learning and exploring various technologies to enhance my skills.
 - 💼 I'm open to collaboration on interesting projects and opportunities.
-- 📫 You can reach me via email at [your.email@example.com](mailto:your.email@example.com).
+- 📫 You can reach me via email at [your.email@example.com](mailto:okashaahsan@gmail.com).
 
 ## Skills
 
