@@ -9,21 +9,21 @@ Welcome to my GitHub profile! I'm passionate about web development, data analyti
 ## Skills
 
 ### Programming Languages
-- <i class="fab fa-html5"></i> HTML
-- <i class="fab fa-css3-alt"></i> CSS
-- <i class="fab fa-js-square"></i> JavaScript
-- <i class="fas fa-database"></i> SQL
-- <i class="fab fa-dotnet"></i> .NET
+- ![HTML](https://img.shields.io/badge/-HTML-orange)
+- ![CSS](https://img.shields.io/badge/-CSS-blue)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- ![SQL](https://img.shields.io/badge/-SQL-lightgrey)
+- ![.NET](https://img.shields.io/badge/-.NET-green)
 
 ### Libraries & Frameworks
-- <i class="fab fa-react"></i> React
-- <i class="fab fa-node"></i> Node.js
+- ![React](https://img.shields.io/badge/-React-blue)
+- ![Node.js](https://img.shields.io/badge/-Node.js-green)
 - Next.js
 - Express.js
 
 ### Databases
-- <i class="fas fa-database"></i> MongoDB
-- <i class="fas fa-database"></i> SQL (relational databases)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
+- ![SQL](https://img.shields.io/badge/-SQL-lightgrey) (relational databases)
 
 ### Tools & Technologies
 - Power BI
@@ -34,4 +34,4 @@ Welcome to my GitHub profile! I'm passionate about web development, data analyti
 - Twitter: [@okasha_saif](https://twitter.com/okasha_saif)
 - Personal Website: [www.okashasaifahsan.com](https://www.okashasaifahsan.com)
 
-Feel free to explore my repositories and reach out if you have any questions or just want to connect!
+Feel free to explore my repositories
