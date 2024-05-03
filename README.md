@@ -9,20 +9,21 @@ Welcome to my GitHub profile! I'm passionate about web development, data analyti
 ## Skills
 
 ### Programming Languages
-- HTML
-- CSS
-- JavaScript
-- SQL
-- .NET
+- <i class="fab fa-html5"></i> HTML
+- <i class="fab fa-css3-alt"></i> CSS
+- <i class="fab fa-js-square"></i> JavaScript
+- <i class="fas fa-database"></i> SQL
+- <i class="fab fa-dotnet"></i> .NET
 
 ### Libraries & Frameworks
-- React
+- <i class="fab fa-react"></i> React
+- <i class="fab fa-node"></i> Node.js
 - Next.js
 - Express.js
 
 ### Databases
-- MongoDB
-- SQL (relational databases)
+- <i class="fas fa-database"></i> MongoDB
+- <i class="fas fa-database"></i> SQL (relational databases)
 
 ### Tools & Technologies
 - Power BI
