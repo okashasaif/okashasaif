@@ -38,6 +38,6 @@ Welcome to my GitHub profile! I'm passionate about web development, data analyti
 
 - LinkedIn: [Okasha Saif Ahsan](https://www.linkedin.com/in/okashasaifahsan/)
 - Twitter: [@okasha_saif](https://twitter.com/okasha_saif)
-- Personal Website: [www.okashasaifahsan.com](https://www.okashasaifahsan.com)
+- Personal Website: [www.okashasaifahsan.com]([https://www.okashasaifahsan.com](https://okasha-portfolio.vercel.app/))
 
 Feel free to explore my repositories
