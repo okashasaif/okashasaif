@@ -36,8 +36,11 @@ Welcome to my GitHub profile! I'm passionate about web development, data analyti
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 ## Let's Connect
 
+## Let's Connect
+
 - LinkedIn: [Okasha Saif Ahsan](https://www.linkedin.com/in/okashasaifahsan/)
 - Twitter: [@okasha_saif](https://twitter.com/okasha_saif)
-- Personal Website: [[https://www.okashasaifahsan.com](https://okasha-portfolio.vercel.app/)](https://okasha-portfolio.vercel.app/)
+- Personal Website: [www.okashasaifahsan.com](https://okasha-portfolio.vercel.app/)
 
-Feel free to explore my repositories
+Feel free to explore my repositories and reach out if you have any questions or just want to connect!
+
