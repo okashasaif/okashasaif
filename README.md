@@ -10,13 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+  I’m currently working on **PERN Stack**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+  I’m currently learning **Node.js, Angular.js, Postgre, Power BI**
 
  </div>
  
