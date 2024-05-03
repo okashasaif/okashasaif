@@ -27,6 +27,10 @@ Welcome to my GitHub profile! I'm passionate about web development, data analyti
 
 ### Tools & Technologies
 - Power BI
+## GitHub Stats
+
+![Okasha Saif Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=okashasaif&show_icons=true&theme=dark)
+
 ## Snake Animation
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
